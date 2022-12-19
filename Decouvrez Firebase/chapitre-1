@@ -1,0 +1,13 @@
+## définition de firebase:
+Firebase est une solution clé en main qui permet d'implémenter rapidement un back end pour votre application mobile.
+
+Firebase contient de nombreux outils et s'intègre facilement au sein de tout type d'application (mobile et web).
+
+##  particulièremen:
+- Cloud Firestore : Base de données NoSQL orientée documents de Firebase, permettant de stocker, synchroniser et récupérer des données distantes pour une application mobile.
+
+- Storage : Espace de Firebase dédié au stockage et à la récupération de fichiers propres à l'utilisateur comme des photos ou des vidéos.
+
+- Authentication : Solution permettant de créer et gérer facilement des moyens d'authentification variés (Google, Facebook, Email, etc...) dans le but de sécuriser l'accès à une application mobile et authentifier les utilisateurs.
+
+- Cloud Messaging : Fournit un flux de communication fiable et économe en batterie entre le serveur (Firebase) et les appareils distants (où l'application est installée) dans l'objectif d'envoyer et recevoir des messages de notifications.
